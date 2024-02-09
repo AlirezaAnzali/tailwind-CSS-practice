@@ -13,3 +13,13 @@ const initApp = () => {
 };
 
 document.addEventListener("DOMContentLoaded", initApp);
+
+
+
+// function toggleTheme() {
+//   const body = document.body;
+//   body.classList.toggle('dark');
+// }
+
+// const themeToggleButton = document.getElementById('theme-toggle-button');
+// themeToggleButton.addEventListener('click', toggleTheme);
